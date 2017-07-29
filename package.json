@@ -1,0 +1,19 @@
+{
+  "name": "aws-alb-waf-auto-ban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alb-log-parser": "0.0.2",
+    "aws-sdk": "^2.90.0",
+    "bluebird": "^3.5.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.90.0"
+  }
+}
