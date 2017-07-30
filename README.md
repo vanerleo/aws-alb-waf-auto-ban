@@ -7,7 +7,7 @@ npm install
 ```
 
 Modify `servelrss.yml`
-Update the `environment` section with your values
+Update the `environment` section with your values and `region:` to match where your WAF is
 ```
   environment:
     WebACL_ID: 2c39d8e7-1b8c-4a3d-9f03-ebf123274e9d
